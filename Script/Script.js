@@ -22,8 +22,7 @@ function calculateTip(event) {
     document.getElementById('tip').innerHTML = total;
     document.getElementById('totalGorjeta').style.display = "block"
 }
-// Teste git
-let b = a;
+
 
 document.getElementById('totalGorjeta').style.display = "none";
 document.getElementById('each').style.display = "none";
